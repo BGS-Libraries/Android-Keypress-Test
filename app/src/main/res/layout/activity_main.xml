@@ -12,9 +12,10 @@
     tools:context="com.brightcove.keypresstest.MainActivity">
 
     <TextView
+        android:id="@+id/center_text"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:gravity="center"
         android:textSize="48sp"
-        android:text="Hello World!"/>
+        android:text="Press a key!"/>
 </FrameLayout>
